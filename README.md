@@ -10,4 +10,4 @@
 </p>
 
 
-[![slimane's 42 stats](https://badge.mediaplus.ma/darkblue/slimane)](https://github.com/oakoudad/badge42)
+[![slimane's 42 stats](https://badge.mediaplus.ma/darkblue/slimane)](https://github.com/oakoudad/binary.svg)
